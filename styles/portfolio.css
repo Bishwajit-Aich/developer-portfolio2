@@ -2,6 +2,20 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 font-family: 'Overpass', sans-serif;
+}  
+
+.outline-button{
+    display: flex;
+    gap: 20px;
+}
+.outline-contact-button{
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    padding: 18px 20px;
+    border-radius: 5px;
+    background: #FFF8F3;
 }
 
 section{
