@@ -33,7 +33,7 @@ section{
 nav{
     display: flex;
     justify-content: space-around;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-size: 45px;
